@@ -1,3 +1,3 @@
 build:
-  rm -rt public
+  rm -rf public
   hugo

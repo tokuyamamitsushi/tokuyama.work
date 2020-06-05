@@ -1,6 +1,6 @@
 language: go
 install:
-- go get -v github.com/spf13/hugo
+- go get -vI github.com/spf13/hugo
 script:
 - hugo version
 - make build

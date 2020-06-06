@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-languageCode = "en-us"
+baseurl = "https://www.tokuyama.work"
+languageCode = "ja"
 title = "tokuyama.work test"
 # Define how many pages appear per site
 paginate = 10
@@ -18,7 +18,7 @@ theme = "hugo-minimalist-theme"
     avatar = "img/hugo-logo.png"
     header_background = "img/coffee.jpg"
     header_title = "Customizable header title"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    copyright = "Powered by [Hugo TEST](http://gohugo.io)."
     custom_css = []
     custom_js  = []
 
